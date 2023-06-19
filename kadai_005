@@ -1,1 +1,6 @@
+upper = 10
+bottom = 20
+hight = 5
 
+S = ((upper + bottom)*hight)/2
+print("面積は" + str(S) + "cm2")
