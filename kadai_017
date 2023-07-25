@@ -7,7 +7,7 @@ class Human:
       print('大人です')
     else:
         print('大人でない')
-hu_a = Human{}"A", 1)
+hu_a = Human("A", 1)
 hu_a.check_adult()
 hu_b = Human("B", 21)
 hu_b.check_adult()
